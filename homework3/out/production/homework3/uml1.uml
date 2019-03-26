@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="735.0" y="461.5">Add</node>
+    <node x="959.0" y="461.5">Chain</node>
+    <node x="0.0" y="652.0">In</node>
+    <node x="0.0" y="415.0">Triangle</node>
+    <node x="467.99999999999994" y="461.5">Poly</node>
+    <node x="256.99999999999994" y="173.0">Factor</node>
+    <node x="634.75" y="0.0">Com</node>
+    <node x="1192.0" y="461.5">Mul</node>
+    <node x="287.99999999999994" y="473.0">Const</node>
+    <node x="979.5" y="173.0">Principle</node>
+    <node x="278.0" y="652.0">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Const" target="Factor">
+      <point x="0.0" y="-38.0" />
+      <point x="0.0" y="96.0" />
+    </edge>
+    <edge source="Poly" target="Factor">
+      <point x="0.0" y="-49.5" />
+      <point x="591.5" y="390.0" />
+      <point x="441.99999999999994" y="390.0" />
+      <point x="74.0" y="96.0" />
+    </edge>
+    <edge source="Triangle" target="Factor">
+      <point x="0.0" y="-96.0" />
+      <point x="134.0" y="390.0" />
+      <point x="293.99999999999994" y="390.0" />
+      <point x="-74.0" y="96.0" />
+    </edge>
+    <edge source="Principle" target="Com">
+      <point x="0.0" y="-96.0" />
+      <point x="1065.5" y="148.0" />
+      <point x="757.75" y="148.0" />
+      <point x="41.0" y="61.5" />
+    </edge>
+    <edge source="Mul" target="Principle">
+      <point x="0.0" y="-49.5" />
+      <point x="1293.0" y="390.0" />
+      <point x="1122.8333333333333" y="390.0" />
+      <point x="57.33333333333337" y="96.0" />
+    </edge>
+    <edge source="Add" target="Principle">
+      <point x="0.0" y="-49.5" />
+      <point x="837.0" y="390.0" />
+      <point x="1008.1666666666666" y="390.0" />
+      <point x="-57.333333333333314" y="96.0" />
+    </edge>
+    <edge source="Factor" target="Com">
+      <point x="0.0" y="-96.0" />
+      <point x="367.99999999999994" y="148.0" />
+      <point x="675.75" y="148.0" />
+      <point x="-41.0" y="61.5" />
+    </edge>
+    <edge source="Chain" target="Principle">
+      <point x="0.0" y="-49.5" />
+      <point x="0.0" y="96.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="708.5" y="331.5" />
+  <SelectedNodes>
+    <node>Add</node>
+    <node>Com</node>
+    <node>Chain</node>
+    <node>In</node>
+    <node>Mul</node>
+    <node>Factor</node>
+    <node>Const</node>
+    <node>Triangle</node>
+    <node>Poly</node>
+    <node>Principle</node>
+    <node>Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

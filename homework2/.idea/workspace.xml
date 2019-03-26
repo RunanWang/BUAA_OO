@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7228ea8d-da49-463d-b049-50d9da5b43e6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/homework2$Main.ic" NAME="Main Coverage Results" MODIFIED="1552114321328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/Term">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>Term</OriginalElement>
+              <nodes>
+                <node x="10.000000000000014" y="898.0">Expression</node>
+                <node x="0.0" y="0.0">Factor</node>
+                <node x="6.000000000000014" y="403.0">Term</node>
+                <node x="29.500000000000014" y="1301.0">Main</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="Main" target="Expression">
+                  <point x="-43.5" y="-26.5" />
+                  <point x="73.00000000000001" y="1276.0" />
+                  <point x="63.250000000000014" y="1276.0" />
+                  <point x="-53.25" y="176.5" />
+                </edge>
+                <edge source="Term" target="Factor">
+                  <point x="-73.66666666666667" y="-222.5" />
+                  <point x="42.83333333333334" y="378.0" />
+                  <point x="38.83333333333333" y="378.0" />
+                  <point x="-77.66666666666667" y="176.5" />
+                </edge>
+                <edge source="Expression" target="Term">
+                  <point x="26.625" y="-176.5" />
+                  <point x="143.125" y="873.0" />
+                  <point x="144.12500000000003" y="873.0" />
+                  <point x="27.625000000000014" y="222.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="312.0" y="191.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setCoeff</find>
+      <find>Wrong input</find>
+      <find>flag</find>
+      <find>getcoeff</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Factor.java" />
+        <option value="$PROJECT_DIR$/src/Term.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Expression.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="76" />
+    <option name="y" value="-34" />
+    <option name="width" value="2696" />
+    <option name="height" value="1664" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="homework2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553393683529" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7228ea8d-da49-463d-b049-50d9da5b43e6" name="Default Changelist" comment="" />
+      <created>1552091841016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552091841016</updated>
+      <workItem from="1552091844898" duration="12011000" />
+      <workItem from="1552106285709" duration="10687000" />
+      <workItem from="1552117618180" duration="886000" />
+      <workItem from="1552138326171" duration="2316000" />
+      <workItem from="1552140751630" duration="28000" />
+      <workItem from="1552201000886" duration="4987000" />
+      <workItem from="1552358482041" duration="101000" />
+      <workItem from="1553392575010" duration="1233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32249000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27588814" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Metrics" visible="true" weight="0.9602649" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32980132" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32980132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32980132" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32980132" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" sideWeight="0.49962208" weight="0.32980132" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50037795" side_tool="true" weight="0.32980132" />
+      <window_info anchor="bottom" id="Statistic" order="11" weight="0.32980132" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32980132" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32955405" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="expList" language="JAVA" />
+        <watch expression="termList" language="JAVA" />
+        <watch expression="derList" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>derList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>termList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>expList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="461" selection-start-line="461" selection-end-line="461" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="1100" selection-start-line="1100" selection-end-line="1100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="1925" selection-start-line="1925" selection-end-line="1925" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Term.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="152" column="40" selection-start-line="152" selection-start-column="40" selection-end-line="152" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Term#1;class#Term#0" />
+            <element signature="method#termInit#0;class#Term#0" />
+            <element signature="method#printTerm#0;class#Term#0" />
+            <element signature="method#termMerge#0;class#Term#0" />
+            <element signature="e#4501#4502#0" expanded="true" />
+            <element signature="e#4529#4530#0" expanded="true" />
+            <element signature="e#4602#4603#0" expanded="true" />
+            <element signature="e#4644#4645#0" expanded="true" />
+            <element signature="e#4674#4675#0" expanded="true" />
+            <element signature="e#4716#4717#0" expanded="true" />
+            <element signature="e#4746#4747#0" expanded="true" />
+            <element signature="e#4788#4789#0" expanded="true" />
+            <element signature="e#4818#4819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Factor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4020">
+          <caret line="134" column="1" lean-forward="true" selection-start-line="134" selection-start-column="1" selection-end-line="134" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Factor#1;class#Factor#0" />
+            <element signature="method#checkFactor#0;class#Factor#0" />
+            <element signature="method#printError#0;class#Factor#0" />
+            <element signature="method#flagCompute#0;class#Factor#0" />
+            <element signature="method#numCompute#0;class#Factor#0" />
+            <element signature="method#triRec#0;class#Factor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6780">
+          <caret line="226" column="43" selection-start-line="226" selection-start-column="43" selection-end-line="226" selection-end-column="43" />
+          <folding>
+            <element signature="method#expressionDivide#0;class#Expression#0" />
+            <element signature="method#printExpression#0;class#Expression#0" />
+            <element signature="method#printDerExpression#0;class#Expression#0" />
+            <element signature="method#printPoly#0;class#Expression#0" />
+            <element signature="method#printCos#0;class#Expression#0" />
+            <element signature="method#printSin#0;class#Expression#0" />
+            <element signature="method#expressionMerge#0;class#Expression#0" />
+            <element signature="method#optionCheck#0;class#Expression#0" />
+            <element signature="method#expDer#0;class#Expression#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Term">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Term</OriginalElement>
+          <nodes>
+            <node x="10.000000000000014" y="898.0">Expression</node>
+            <node x="0.0" y="0.0">Factor</node>
+            <node x="6.000000000000014" y="403.0">Term</node>
+            <node x="29.500000000000014" y="1301.0">Main</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Main" target="Expression">
+              <point x="-43.5" y="-26.5" />
+              <point x="73.00000000000001" y="1276.0" />
+              <point x="63.250000000000014" y="1276.0" />
+              <point x="-53.25" y="176.5" />
+            </edge>
+            <edge source="Term" target="Factor">
+              <point x="-73.66666666666667" y="-222.5" />
+              <point x="42.83333333333334" y="378.0" />
+              <point x="38.83333333333333" y="378.0" />
+              <point x="-77.66666666666667" y="176.5" />
+            </edge>
+            <edge source="Expression" target="Term">
+              <point x="26.625" y="-176.5" />
+              <point x="143.125" y="873.0" />
+              <point x="144.12500000000003" y="873.0" />
+              <point x="27.625000000000014" y="222.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="312.0" y="191.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
