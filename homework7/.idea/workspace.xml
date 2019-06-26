@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7c2d090-20bb-467f-bf72-9e72d8c9ec9a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Input.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="method#getInput#0;class#Input#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ReQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#addQueue#0;class#ReQueue#0" />
+                <element signature="method#setEnd#0;class#ReQueue#0" />
+                <element signature="method#isEmpty#0;class#ReQueue#0" />
+                <element signature="method#getFirstRequest#0;class#ReQueue#0" />
+                <element signature="method#getRequest#0;class#ReQueue#0" />
+                <element signature="method#outQueue#0;class#ReQueue#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EleA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicElevator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2580">
+              <caret line="189" column="30" selection-start-line="189" selection-start-column="30" selection-end-line="189" selection-end-column="30" />
+              <folding>
+                <element signature="method#run#0;class#BasicElevator#0" />
+                <element signature="method#eleMoveOne#0;class#BasicElevator#0" />
+                <element signature="method#eleGotoGet#0;class#BasicElevator#0" />
+                <element signature="method#eleGoto#0;class#BasicElevator#0" />
+                <element signature="method#eleGetIn#0;class#BasicElevator#0" />
+                <element signature="method#eleByPass#0;class#BasicElevator#0" />
+                <element signature="method#eleGetOut#0;class#BasicElevator#0" />
+                <element signature="method#mainRenew#0;class#BasicElevator#0" />
+                <element signature="method#waitTime#0;class#BasicElevator#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Monitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2190">
+              <caret line="106" column="24" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
+              <folding>
+                <element signature="method#jobN3#0;class#Monitor#0" />
+                <element signature="method#jobN12#0;class#Monitor#0" />
+                <element signature="method#job1#0;class#Monitor#0" />
+                <element signature="method#job3#0;class#Monitor#0" />
+                <element signature="method#job15#0;class#Monitor#0" />
+                <element signature="method#job16#0;class#Monitor#0" />
+                <element signature="method#jobEven#0;class#Monitor#0" />
+                <element signature="method#jobOdd#0;class#Monitor#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getRequestDest()</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Request.java" />
+        <option value="$PROJECT_DIR$/src/Queue.java" />
+        <option value="$PROJECT_DIR$/src/RequestQueue.java" />
+        <option value="$PROJECT_DIR$/src/Elevator.java" />
+        <option value="$PROJECT_DIR$/src/Output.java" />
+        <option value="$PROJECT_DIR$/src/TotalQueue.java" />
+        <option value="$PROJECT_DIR$/src/Input.java" />
+        <option value="$PROJECT_DIR$/src/EleA.java" />
+        <option value="$PROJECT_DIR$/src/EleB.java" />
+        <option value="$PROJECT_DIR$/src/EleC.java" />
+        <option value="$PROJECT_DIR$/src/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/ReQueue.java" />
+        <option value="$PROJECT_DIR$/src/BasicElevator.java" />
+        <option value="$PROJECT_DIR$/src/Monitor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="76" />
+    <option name="y" value="-34" />
+    <option name="width" value="2696" />
+    <option name="height" value="1664" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="homework7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555858531777" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryanw\IdeaProjects\homework7\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="homework7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7c2d090-20bb-467f-bf72-9e72d8c9ec9a" name="Default Changelist" comment="" />
+      <created>1555071946316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555071946316</updated>
+      <workItem from="1555071951128" duration="17030000" />
+      <workItem from="1555142151394" duration="3315000" />
+      <workItem from="1555237143003" duration="2610000" />
+      <workItem from="1555379610518" duration="49000" />
+      <workItem from="1555604091479" duration="442000" />
+      <workItem from="1555858110166" duration="1020000" />
+      <workItem from="1556249654547" duration="929000" />
+      <workItem from="1556257809438" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25419000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27588814" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32980132" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19072847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32980132" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32980132" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" weight="0.5139073" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="11" weight="0.32980132" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" />
+      <window_info active="true" anchor="bottom" id="Metrics" order="16" visible="true" weight="0.9602649" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2494331" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="bottom" id="JProfiler" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32980132" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.3642384" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="PlantUML" order="1" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/elevator-input-hw3-1.3-jar-with-dependencies.jar!/com/oocourse/elevator3/PersonRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="47" column="94" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="94" />
+          <folding>
+            <element signature="e#1523#1524#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queue.java" />
+    <entry file="file://$PROJECT_DIR$/src/RequestQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/Elevator.java" />
+    <entry file="file://$PROJECT_DIR$/src/Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../homework6/src/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EleB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EleC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TotalQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/BasicElevator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>BasicElevator</OriginalElement>
+          <nodes>
+            <node x="64.10681416284865" y="727.0">EleA</node>
+            <node x="157.10681416284868" y="727.0">EleB</node>
+            <node x="257.9815931195242" y="727.0">EleC</node>
+            <node x="261.9012539184953" y="0.0">Request</node>
+            <node x="228.0" y="867.0">MainClass</node>
+            <node x="570.0585161964473" y="489.0">Input</node>
+            <node x="359.0585161964473" y="454.5">Monitor</node>
+            <node x="0.0" y="261.0">Output</node>
+            <node x="227.2431777992123" y="215.0">ReQueue</node>
+            <node x="44.25" y="397.0">BasicElevator</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Monitor" target="ReQueue">
+              <point x="-63.66666666666663" y="-72.5" />
+              <point x="390.89184952978064" y="377.0" />
+              <point x="385.4249959810305" y="377.0" />
+              <point x="42.18181818181819" y="61.0" />
+            </edge>
+            <edge source="MainClass" target="EleC">
+              <point x="0.0" y="-15.0" />
+              <point x="280.5" y="787.0" />
+              <point x="311.9815931195242" y="787.0" />
+              <point x="18.0" y="15.0" />
+            </edge>
+            <edge source="MainClass" target="EleB">
+              <point x="-16.153846153846132" y="-15.0" />
+              <point x="264.34615384615387" y="807.0" />
+              <point x="211.10681416284868" y="807.0" />
+              <point x="18.0" y="15.0" />
+            </edge>
+            <edge source="ReQueue" target="Request">
+              <point x="58.0" y="-61.0" />
+              <point x="401.2431777992123" y="195.0" />
+              <point x="351.9012539184953" y="195.0" />
+              <point x="10.0" y="72.5" />
+            </edge>
+            <edge source="MainClass" target="EleA">
+              <point x="-32.30769230769229" y="-15.0" />
+              <point x="248.1923076923077" y="827.0" />
+              <point x="118.85681416284865" y="827.0" />
+              <point x="18.25" y="15.0" />
+            </edge>
+            <edge source="BasicElevator" target="ReQueue">
+              <point x="90.0" y="-130.0" />
+              <point x="242.25" y="377.0" />
+              <point x="258.8795414355759" y="377.0" />
+              <point x="-84.36363636363637" y="61.0" />
+            </edge>
+            <edge source="Input" target="ReQueue">
+              <point x="-84.375" y="-38.0" />
+              <point x="598.1835161964473" y="367.0" />
+              <point x="427.60681416284865" y="367.0" />
+              <point x="84.36363636363637" y="61.0" />
+            </edge>
+            <edge source="MainClass" target="Monitor">
+              <point x="32.30769230769232" y="-15.0" />
+              <point x="312.8076923076923" y="827.0" />
+              <point x="436.03504541435575" y="827.0" />
+              <point x="436.03504541435575" y="707.0" />
+              <point x="502.3085161964473" y="707.0" />
+              <point x="47.75" y="72.5" />
+            </edge>
+            <edge source="MainClass" target="Input">
+              <point x="40.38461538461536" y="-15.0" />
+              <point x="320.88461538461536" y="837.0" />
+              <point x="655.9581223374327" y="837.0" />
+              <point x="655.9581223374327" y="707.0" />
+              <point x="626.3085161964473" y="707.0" />
+              <point x="-56.25" y="38.0" />
+            </edge>
+            <edge source="EleC" target="BasicElevator">
+              <point x="-24.0" y="-15.0" />
+              <point x="269.9815931195242" y="687.0" />
+              <point x="206.25" y="687.0" />
+              <point x="54.0" y="130.0" />
+            </edge>
+            <edge source="EleA" target="BasicElevator">
+              <point x="-24.333333333333314" y="-15.0" />
+              <point x="76.27348082951534" y="707.0" />
+              <point x="62.25" y="707.0" />
+              <point x="-90.0" y="130.0" />
+            </edge>
+            <edge source="BasicElevator" target="Request">
+              <point x="18.0" y="-130.0" />
+              <point x="170.25" y="377.0" />
+              <point x="151.35681416284868" y="377.0" />
+              <point x="151.35681416284868" y="185.0" />
+              <point x="311.9012539184953" y="185.0" />
+              <point x="-30.0" y="72.5" />
+            </edge>
+            <edge source="EleA" target="ReQueue">
+              <point x="24.333333333333314" y="-15.0" />
+              <point x="124.94014749618196" y="697.0" />
+              <point x="270.75" y="697.0" />
+              <point x="270.75" y="367.0" />
+              <point x="279.970450526485" y="367.0" />
+              <point x="-63.27272727272725" y="61.0" />
+            </edge>
+            <edge source="Input" target="Request">
+              <point x="84.375" y="-38.0" />
+              <point x="766.9335161964473" y="377.0" />
+              <point x="722.0587372397717" y="377.0" />
+              <point x="722.0587372397717" y="165.0" />
+              <point x="411.9012539184953" y="165.0" />
+              <point x="70.0" y="72.5" />
+            </edge>
+            <edge source="EleB" target="BasicElevator">
+              <point x="0.0" y="-15.0" />
+              <point x="193.10681416284868" y="677.0" />
+              <point x="170.25" y="677.0" />
+              <point x="18.0" y="130.0" />
+            </edge>
+            <edge source="MainClass" target="ReQueue">
+              <point x="16.15384615384619" y="-15.0" />
+              <point x="296.6538461538462" y="807.0" />
+              <point x="348.5585161964473" y="807.0" />
+              <point x="348.5585161964473" y="377.0" />
+              <point x="364.3340868901214" y="377.0" />
+              <point x="21.090909090909122" y="61.0" />
+            </edge>
+            <edge source="EleB" target="ReQueue">
+              <point x="24.0" y="-15.0" />
+              <point x="217.10681416284868" y="707.0" />
+              <point x="281.75" y="707.0" />
+              <point x="281.75" y="377.0" />
+              <point x="301.06135961739415" y="377.0" />
+              <point x="-42.18181818181819" y="61.0" />
+            </edge>
+            <edge source="EleC" target="ReQueue">
+              <point x="24.0" y="-15.0" />
+              <point x="317.9815931195242" y="707.0" />
+              <point x="310.9815931195242" y="707.0" />
+              <point x="310.9815931195242" y="377.0" />
+              <point x="322.15226870830315" y="377.0" />
+              <point x="-21.090909090909122" y="61.0" />
+            </edge>
+            <edge source="MainClass" target="Output">
+              <point x="-48.46153846153845" y="-15.0" />
+              <point x="232.03846153846155" y="847.0" />
+              <point x="22.25" y="847.0" />
+              <point x="-22.25" y="15.0" />
+            </edge>
+            <edge source="Monitor" target="Request">
+              <point x="63.66666666666663" y="-72.5" />
+              <point x="518.2251828631139" y="377.0" />
+              <point x="519.644843662085" y="377.0" />
+              <point x="519.644843662085" y="185.0" />
+              <point x="371.9012539184953" y="185.0" />
+              <point x="30.0" y="72.5" />
+            </edge>
+            <edge source="BasicElevator" target="Output">
+              <point x="-90.0" y="-130.0" />
+              <point x="62.25" y="377.0" />
+              <point x="66.75" y="377.0" />
+              <point x="22.25" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7666303162486369" x="398.0" y="303.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="method#getInput#0;class#Input#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addQueue#0;class#ReQueue#0" />
+            <element signature="method#setEnd#0;class#ReQueue#0" />
+            <element signature="method#isEmpty#0;class#ReQueue#0" />
+            <element signature="method#getFirstRequest#0;class#ReQueue#0" />
+            <element signature="method#getRequest#0;class#ReQueue#0" />
+            <element signature="method#outQueue#0;class#ReQueue#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EleA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicElevator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="189" column="30" selection-start-line="189" selection-start-column="30" selection-end-line="189" selection-end-column="30" />
+          <folding>
+            <element signature="method#run#0;class#BasicElevator#0" />
+            <element signature="method#eleMoveOne#0;class#BasicElevator#0" />
+            <element signature="method#eleGotoGet#0;class#BasicElevator#0" />
+            <element signature="method#eleGoto#0;class#BasicElevator#0" />
+            <element signature="method#eleGetIn#0;class#BasicElevator#0" />
+            <element signature="method#eleByPass#0;class#BasicElevator#0" />
+            <element signature="method#eleGetOut#0;class#BasicElevator#0" />
+            <element signature="method#mainRenew#0;class#BasicElevator#0" />
+            <element signature="method#waitTime#0;class#BasicElevator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="106" column="24" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
+          <folding>
+            <element signature="method#jobN3#0;class#Monitor#0" />
+            <element signature="method#jobN12#0;class#Monitor#0" />
+            <element signature="method#job1#0;class#Monitor#0" />
+            <element signature="method#job3#0;class#Monitor#0" />
+            <element signature="method#job15#0;class#Monitor#0" />
+            <element signature="method#job16#0;class#Monitor#0" />
+            <element signature="method#jobEven#0;class#Monitor#0" />
+            <element signature="method#jobOdd#0;class#Monitor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>homework7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmlunitng">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jmlunitng.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
